@@ -1,0 +1,17 @@
+{
+  "name": "GL.iNet GL-S10",
+  "version": "",
+  "home_assistant_domain": "esphome",
+  "new_install_skip_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "gl-s10-bt-proxy-esp32/gl-s10-bt-proxy-esp32.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

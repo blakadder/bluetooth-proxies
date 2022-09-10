@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "gl-s10-bt-proxy-esp32/gl-s10-bt-proxy-esp32.bin",
+      "offset": 0
+    }
+  ]
+}
