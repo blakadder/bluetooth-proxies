@@ -1,0 +1,9 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "lilygo-ttgo-poe-bt-proxy-esp32/lilygo-ttgo-poe-bt-proxy-esp32.bin",
+      "offset": 0
+    }
+  ]
+}
